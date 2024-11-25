@@ -127,6 +127,10 @@
             to: "/categories/office"
         },
         {
+            title: 'ផ្ទះបាយ',
+            to: "/categories/kitchen"
+        },
+        {
             title: 'ផ្នែកខាងក្រៅ',
             to: "/categories/outdoor"
         },
