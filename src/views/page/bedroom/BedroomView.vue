@@ -104,7 +104,7 @@ import { ref } from "vue";
 
 const carouselItems = ref([
   {
-    src: "/slide-groups/bedrooms/bedroom-1.jpg",
+    src: "public/slide-groups/bedrooms/bedroom-1.jpg",
   },
   {
     src: "/public/slide-groups/bedrooms/bedroom-6.jpg",
